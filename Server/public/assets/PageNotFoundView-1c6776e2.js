@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./index-f18161ac.js";const o={},s={class:"text-center"};function n(r,_){return t(),c("h2",s,"Sorry, diese Seite gibt es nicht")}const i=e(o,[["render",n]]);export{i as default};
